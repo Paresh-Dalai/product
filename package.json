@@ -1,0 +1,14 @@
+{
+  "name": "practice_react",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Practice"
+  ],
+  "author": "Paresh",
+  "license": "MIT"
+}
